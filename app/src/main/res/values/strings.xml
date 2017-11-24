@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Simple Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_ini_home_fragment">Hello ini Home Fragment</string>
+    <string name="ke_halaman_category">Ke Halaman Category</string>
+    <string name="kategory_lifestyle">Kategory Lifestyle</string>
+    <string name="categoy_description">Categoy Description</string>
+    <string name="categoy_name">Categoy Name</string>
+    <string name="category_description">Category Description</string>
+    <string name="category_name">Category Name</string>
+    <string name="ke_halaman_activity">Ke Halaman Activity</string>
+    <string name="sir_alex_ferguson">Sir Alex Ferguson</string>
+    <string name="jose_mourinho">Jose Mourinho</string>
+    <string name="louis_van_gall">Louis Van Gall</string>
+    <string name="david_moyes">David Moyes</string>
+    <string name="tutup">Tutup</string>
+    <string name="pilih">Pilih</string>
+    <string name="ini_profile_activity">Ini Profile Activity</string>
+</resources>
